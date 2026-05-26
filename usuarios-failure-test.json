@@ -1,0 +1,19 @@
+{
+  "info": {
+    "_postman_id": "323d9d77-16cb-41ce-a6ca-172d11576eb4",
+    "name": "usuarios-failure",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "47016835",
+    "_collection_link": "https://go.postman.co/collection/47016835-323d9d77-16cb-41ce-a6ca-172d11576eb4?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "New Request",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
